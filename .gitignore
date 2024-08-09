@@ -61,9 +61,6 @@ typings/
 # dotenv environment variables file
 .env
 
-# db config with db credentials file
-dbconfig.js
-
 # next.js build output
 .next
 
@@ -77,7 +74,3 @@ dbconfig.js
 
 # local version cache
 .wwebjs_cache/
-
-# sesiones
-/sessions/*
-dbconfig.js
